@@ -1,0 +1,16 @@
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.csproj.AssemblyReference.cache
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.frmPrincipal.resources
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.Properties.Resources.resources
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.csproj.GenerateResource.cache
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\bin\Debug\PacotesDeViagens.exe.config
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\bin\Debug\PacotesDeViagens.exe
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\bin\Debug\PacotesDeViagens.pdb
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.exe
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.pdb
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.frmExibirCliente.resources
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.frmExibirPacote.resources
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.frmExibirReserva.resources
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.frmCadastroCliente.resources
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.frmCadastroPacote.resources
+C:\Users\Arthur\IFSP\POBJ\viagens_trabalho_pobj\PacotesDeViagens\PacotesDeViagens\obj\Debug\PacotesDeViagens.frmCadastroReserva.resources
