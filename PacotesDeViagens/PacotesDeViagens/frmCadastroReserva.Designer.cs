@@ -32,9 +32,10 @@
             // 
             // frmCadastroReserva
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(255, 244);
+            this.ClientSize = new System.Drawing.Size(546, 300);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmCadastroReserva";
             this.Text = "frmCadastroReserva";
             this.ResumeLayout(false);

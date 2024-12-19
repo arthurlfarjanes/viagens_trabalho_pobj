@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace PacotesDeViagens
@@ -16,7 +18,7 @@ namespace PacotesDeViagens
         private string _estado;
         private string _pais;
         private double _saldo;
-
+       
         public string CPF
         {
             get { return _cpf; }
@@ -63,6 +65,26 @@ namespace PacotesDeViagens
         {
             get { return _saldo; }
             set { _saldo = value; }
+        }
+
+        /*public Veiculo(string placa, string marca, string modelo, int ano)
+        {
+            Placa = placa;
+            Marca = marca;
+            Modelo = modelo;
+            Ano = ano;
+        }*/
+
+        public Cliente(string CPF, String Nome, string Sexo, string Logradouro, string Cidade, string Estado, string Pais, double Saldo)
+        {
+            this.CPF = CPF;
+            this.Nome = Nome;
+            this.Sexo = Sexo;
+            this.Logradouro = Logradouro;
+            this.Cidade = Cidade; 
+            this.Estado = Estado;
+            this.Pais = Pais;
+            this.Saldo = Saldo;
         }
 
         public bool AdicionarSaldo(double valor)

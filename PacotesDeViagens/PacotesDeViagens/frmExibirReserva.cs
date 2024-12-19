@@ -17,6 +17,18 @@ namespace PacotesDeViagens
         {
             InitializeComponent();
             this.reservas = reservas;
+
+            foreach (Reserva reserva in reservas)
+            {
+                ListViewItem Item = new ListViewItem(reserva.Id.ToString());
+                Item.SubItems.Add(reserva.Status);
+                listViewReservas.Items.Add(Item);
+            }
+        }
+
+        private void frmExibirReserva_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
